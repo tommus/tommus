@@ -21,3 +21,9 @@ There are some core principles I follow at work:
 * Everything is possible. It simply takes time.
 * Don't dream. Set your goals.
 * Know your tools. Use design patterns.
+
+## Fun fact
+
+Here is a random fact about me:
+
+    Recently I become a hobbit. I managed to read the whole Silmarillion by J.R.R. Tolkien.
