@@ -26,4 +26,4 @@ There are some core principles I follow at work:
 
 Here is a random fact about me:
 
-    I recently became a hobbit. I managed to read the whole Silmarillion by J.R.R. Tolkien.
+> I think I might recently became a hobbit. I managed to read the whole Silmarillion by J.R.R. Tolkien.
