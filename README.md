@@ -52,8 +52,8 @@ At the heart of my work philosophy are principles that drive my excellence:
 ## A Glimpse into My World
 
 > :book: Fun Fact: I recently undertook an epic literary adventure, devouring
-> J.R.R. Tolkien's masterpiece, *The Silmarillion*. A journey akin to becoming a
-> hobbit of knowledge!
+> J.R.R. Tolkien's masterpiece, *The Silmarillion*. I might have inadvertently
+> turned into a Hobbit.
 
 Feel free to explore my GitHub repositories and get a taste of my coding
 odyssey.
