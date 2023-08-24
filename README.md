@@ -1,29 +1,61 @@
-<h1>Hello there :wave:</h1>
+# Tomasz Dzieniak - Senior Android Developer 👋
 
-<img src="https://github.com/tommus/tommus/blob/main/static/img/coding.gif?raw=true" href="https://github.com/tommus" alt="Neverending story"  width="60%"/><br>
+![Coding GIF](https://github.com/tommus/tommus/blob/main/static/img/coding.gif?raw=true)
 
-## About me
+## About Me
 
-:technologist: My name is <a href="https://www.linkedin.com/in/tomasz-dzieniak/">Tomasz Dzieniak</a> and I am a senior mobile engineer with over eight years of **Android Development** experience and more than fourteen years of experience in the field of IT overall.
+💼 Hey there! I'm Tomasz Dzieniak, a seasoned senior mobile engineer with
+over eight years dedicated to **Android Development** and more than fourteen
+years of comprehensive experience in the broader IT domain.
 
-:bank: I have developed plenty of different solutions and applications for broad variety of industries, including social media, health, commerce, audio and video streaming, technology, banking and more.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/tomasz-dzieniak/)
+to explore more about my professional journey.
 
-:pen: On daily basis, I use: **.kt**, **.java**, **.py**, **.cpp** and **.dart**.
+## Expertise in Android Development
 
-## Work principles
+🚀 With a passion for crafting innovative Android experiences, I bring to the
+table:
 
-There are some core principles I follow at work:
+- **Extensive Experience**: A trailblazer in the Android realm, I've been
+  shaping exceptional user experiences for diverse industries including social
+  media, health, commerce, audio and video streaming, technology, and banking.
 
-* Empower the people around you. Whenever and however you can.
-* Share the knowledge.
-* Push yourself and others out of the comfort zone.
-* Ask plenty of questions.
-* Everything is possible. It simply takes time.
-* Don't dream. Set your goals.
-* Know your tools. Use design patterns.
+- **Multi-language Proficiency**: Proficient in a range of programming languages
+  including **.kt**, **.java**, **.py**, **.cpp**, and **.dart**, I'm adept at
+  selecting the right tool for the task at hand.
 
-## Fun fact
+## Guiding Work Principles
 
-Here is a random fact about me:
+At the heart of my work philosophy are principles that drive my excellence:
 
-> I think I might recently became a hobbit. I managed to read the whole Silmarillion by J.R.R. Tolkien.
+- **Empowerment**: I firmly believe in empowering those around me, fostering an
+  environment of growth and collaboration.
+
+- **Knowledge Sharing**: Sharing knowledge is pivotal; I actively contribute to
+  the growth of my peers and the community.
+
+- **Embracing Discomfort**: Growth thrives outside of comfort zones; I encourage
+  stepping into the unknown.
+
+- **Curiosity Unleashed**: Asking questions fuels progress; I'm known for my
+  inquisitive nature.
+
+- **Unwavering Belief**: I stand by the notion that everything is achievable
+  with perseverance and time.
+
+- **Goal-oriented Mindset**: Goals, not dreams, pave the path to success; I set,
+  achieve, and raise the bar.
+
+- **Mastery of Tools**: I wield design patterns and technical prowess to
+  deliver robust solutions.
+
+## A Glimpse into My World
+
+> :book: Fun Fact: I recently undertook an epic literary adventure, devouring
+> J.R.R. Tolkien's masterpiece, *The Silmarillion*. A journey akin to becoming a
+> hobbit of knowledge!
+
+Feel free to explore my GitHub repositories and get a taste of my coding
+odyssey.
+
+Let's connect, collaborate, and craft the future together. 🚀
